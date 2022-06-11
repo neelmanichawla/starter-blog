@@ -1,6 +1,6 @@
 ---
-title: "Draft example"
-date: 2020-10-14T16:34:00.000Z
+title: Post 1
+date: 2022-06-11T14:38:44.071Z
 image: /images/butler.jpg
 draft: true
 ---
