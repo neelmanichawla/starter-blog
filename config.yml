@@ -1,8 +1,5 @@
 baseline: Official SYP Blog
-theme:
-  - hyde
-  - netlify
-  - netlify-cms
+theme: []
 keywords:
   - Cecil
   - Static Site Generator
