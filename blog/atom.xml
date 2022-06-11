@@ -12,9 +12,9 @@
   </author>
   <entry xml:lang="en">
     <id>/blog/daft-punk/</id>
-    <title>Hello World</title>
+    <title>Welcome to SYP Consults</title>
     <content type="html">
-      <![CDATA[<p><strong>Hello World</strong></p>]]>
+      <![CDATA[<p><strong>Welcome to SYP Consults.</strong></p>]]>
     </content>
     <link href="/blog/daft-punk/" rel="alternate" type="text/html" />
     <published>2022-06-11T15:24:34+02:00</published>
