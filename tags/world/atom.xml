@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>/tags/world/</id>
+  <title>The Butler - World</title>
+  <subtitle><![CDATA[A ready to use static blog, powered by Cecil.]]></subtitle>
+  <link href="/tags/world/atom.xml" rel="self" type="application/atom+xml" />
+  <link href="/tags/world/" rel="alternate" type="text/html" />
+  <updated>2022-06-11T15:24:34+02:00</updated>
+  <author>
+    <name>The Butler</name>
+    <uri>/</uri>
+  </author>
+  <entry xml:lang="en">
+    <id>/blog/daft-punk/</id>
+    <title>Hello World</title>
+    <content type="html">
+      <![CDATA[<p><strong>Hello World</strong></p>]]>
+    </content>
+    <link href="/blog/daft-punk/" rel="alternate" type="text/html" />
+    <published>2022-06-11T15:24:34+02:00</published>
+    <updated>2022-06-11T15:24:34+02:00</updated>
+  </entry>
+</feed>
